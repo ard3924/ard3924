@@ -113,12 +113,11 @@ A Retrieval-Augmented Generation tool for answering textbook-based questions usi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Profile Summary -->
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/ard3924/profile-summary-card-output/radical/0-profile-details.svg" width="80%" />
-  <br><br>
 
-  <!-- Stats & Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ard3924&theme=radical&hide_border=true&show_icons=true" height="180px"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ard3924&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+
+  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=ard3924&theme=radical&hide_border=true" height="180px"/>
   <br><br>
 
