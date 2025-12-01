@@ -114,14 +114,15 @@ A Retrieval-Augmented Generation tool for answering textbook-based questions usi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
+  <!-- Profile Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ard3924&show_icons=true&theme=radical&hide_border=true" />
   <br><br>
 
-  <!-- GitHub Streak -->
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=ard3924&theme=radical&hide_border=true" />
   <br><br>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ard3924&layout=compact&theme=radical&hide_border=true" />
 </p>
+
