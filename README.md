@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science%20Student-blue.svg?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-blue.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-229922?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI%20Enthusiast-ff69b4?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI%20Enthusiast-ff69b4?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-> A passionate Computer Science student with a robust foundation in Full Stack Development and practical experience in Generative AI. I am eager to solve complex problems and contribute to innovative projects within collaborative environments.
+I’m a passionate Computer Science student with hands-on experience in Full Stack Development and Generative AI. I enjoy building scalable applications, solving real-world challenges, and contributing to projects that push the boundaries of innovation.
 
 ---
 
@@ -37,9 +37,9 @@
 ### 🛠️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -47,19 +47,45 @@
 
 ## 🗂️ Featured Projects
 
-### 🛡️ Malware Detection System (Major Project – Kerala University)
-- Developed a malware detection model using Python & Flask, frontend in HTML, CSS, and JS.
-- Implemented Logistic Regression & Extra Tree Classifier; achieved 94%+ accuracy.
-- Optimized model with 23 key attributes for efficiency and speed.
+### 🏪 Local Marketplace Web Application (Track Genesis – Project Intern)
+A cloud-deployed marketplace connecting local buyers and sellers.
 
-### 🍽️ Full-Stack Food Delivery Platform (Minor Project – Kerala University)
-- Built a food delivery platform (MERN stack) with authentication, real-time order tracking, and payment workflow.
-- Designed a responsive, intuitive UI for an enhanced user experience.
+**Tech Stack:** React.js, Node.js, Express.js, Tailwind CSS, MongoDB, Microsoft Azure  
+**Highlights**
+- Built responsive UI using React.js and Tailwind CSS for seamless mobile and desktop usage.
+- Implemented secure authentication, product listings, seller dashboards, and keyword-based search functionality.
+- Deployed the application on Microsoft Azure, enabling scalability and highly available hosting.
+- Optimized performance using lazy loading and code-splitting for faster page loads.
 
-### 🚀 Full-Stack Freelance Platform – Ignite ("Fuel Your Passion") (Personal Project)
-- Developed a full-stack freelance platform (MERN stack).
-- Features: project posting, freelancer hiring, task management, profile customization, and admin dashboard.
-- Created a responsive UI to streamline collaboration.
+**Outcome:** Delivered a production-ready MVP enabling local businesses to digitize their products and reach wider audiences.
+
+---
+
+### 🚀 Ignite – Freelance Collaboration Platform (Personal Project)
+A full-stack platform built to streamline client–freelancer collaboration.
+
+**Tech Stack:** MERN Stack, Tailwind CSS, Redux  
+**Highlights**
+- Implemented project posting, hiring, role-based access, and end-to-end task workflow.
+- Developed a Kanban-style task board for real-time progress tracking.
+- Designed a responsive and intuitive UI for freelancers and clients.
+- Built an admin dashboard to monitor users, tasks, and platform activities.
+
+**Outcome:** Eliminated communication bottlenecks by integrating every stage of the freelancer lifecycle in one interface.
+
+---
+
+### 🤖 AI Textbook Assistant – RAG MVP
+A Retrieval-Augmented Generation tool for answering textbook-based questions using contextual citations.
+
+**Tech Stack:** Streamlit, Python, FAISS, Google Gemini Pro  
+**Highlights**
+- Developed a FAISS-based vector search pipeline to retrieve semantically relevant content from PDFs.
+- Integrated Google Gemini Pro to provide grounded, verifiable responses with citation snippets.
+- Designed an interactive interface allowing users to inspect context, sources, and generated answers.
+- Reduced hallucinations by enforcing document-grounded response generation.
+
+**Outcome:** Accelerated academic research and simplified concept understanding through AI-driven textbook assistance.
 
 ---
 
@@ -71,11 +97,6 @@
   <img src="https://img.shields.io/badge/React%20Essential%20Training-LinkedIn%20Learning-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/Figma%20Essential%20Training-LinkedIn%20Learning-orange?style=flat-square"/>
 </p>
-
-- Career Essentials in Generative AI – Microsoft & LinkedIn Learning (July 2025)
-- Learning Microsoft 365 Copilot for Work – LinkedIn Learning (July 2025)
-- React Essential Training – LinkedIn Learning (August 2025)
-- Figma Essential Training – LinkedIn Learning (June 2025)
 
 ---
 
@@ -93,9 +114,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ard3924&show_icons=true&theme=radical" alt="Aravind R's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ard3924&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ard3924&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ard3924&theme=radical" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ard3924&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ard3924&layout=compact&theme=radical" />
 </p>
