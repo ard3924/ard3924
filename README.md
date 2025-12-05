@@ -17,6 +17,10 @@ I’m a passionate Computer Science student with hands-on experience in Full Sta
 ---
 
 ## 🛠️ Skills & Technologies
+### 🧠 Proficient Programming Languages (Dynamic)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ard3924&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ### 🚀 Frontend Technologies
 <p>
