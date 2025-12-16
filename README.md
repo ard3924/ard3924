@@ -109,24 +109,18 @@ A Retrieval-Augmented Generation tool for answering textbook-based questions usi
   <a href="https://portfoliorepo-updated-tdjh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-3CB371?style=for-the-badge"/></a>
 </p>
 
----
 ## 📊 GitHub Analytics
 
 <p align="center">
 
-  <!-- GitHub Stats (Mirror 1 - reliable) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ard3924&show_icons=true&theme=radical&hide_border=true" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ard3924&show_icons=true&theme=radical&hide_border=true" height="180px" />
 
-  <!-- GitHub Streak (already working) -->
-  <img src="https://streak-stats.demolab.com?user=ard3924&theme=radical&hide_border=true" height="180px" />
-  <br><br>
+    <img src="https://streak-stats.demolab.com?user=ard3924&theme=radical&hide_border=true" height="180px" />
+  <br><br>
 
-  <!-- Top Languages (Mirror 1 - reliable) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ard3924&layout=compact&theme=radical&hide_border=true" />
-  <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ard3924&layout=compact&theme=radical&hide_border=true" />
+  <br><br>
 
-  <!-- Contribution Graph (already working) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ard3924&theme=react-dark&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ard3924&theme=react-dark&hide_border=true&area=true" />
 
 </p>
-
