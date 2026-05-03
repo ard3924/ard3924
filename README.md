@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1A6DFF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Aravind+R;Full+Stack+Engineer+%7C+Cloud+Operations+%40+EY;Building+and+Running+Production+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1A6DFF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Aravind+R;Associate+Software+Engineer+%40+EY;Full+Stack+Developer+%7C+Cloud+Operations" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Associate%20Software%20Engineer-EY-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-229922?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-229922?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Operations-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Generative%20AI-ff69b4?style=for-the-badge"/>
 </p>
@@ -13,30 +13,28 @@
 
 ## 👨‍💻 About Me
 
-I’m a Full Stack Engineer working in Cloud Operations at EY, focused on building and supporting production-grade systems in enterprise environments.
+I’m an Associate Software Engineer at EY with a foundation in full stack development and hands-on experience in cloud operations within enterprise environments.
 
-I develop scalable web applications and work on real-world systems that require monitoring, reliability, and performance at scale. My experience includes working with Azure, Datadog, ServiceNow, and MuleSoft to support cloud infrastructure, enterprise workflows, and integration systems.
+I build scalable web applications using modern technologies and also work on production systems that require monitoring, reliability, and operational efficiency. My experience includes working with Azure, Datadog, ServiceNow, and MuleSoft to support enterprise workflows and integrations.
 
-I’m particularly interested in the intersection of development and operations — where systems are not just built, but continuously monitored, optimized, and scaled.
-
-> I don’t just build applications — I work on systems that run in production.
+I’m particularly interested in understanding how systems behave in production — not just building them, but ensuring they run efficiently, reliably, and at scale.
 
 ---
 
-## 🔧 What I Work On in Production
+## 🔧 Experience in Production Systems
 
-- Monitor cloud systems using Azure Monitoring and Datadog  
-- Handle incidents and workflows through ServiceNow  
+- Monitor cloud-based systems using Azure Monitoring and Datadog  
+- Handle incidents and service workflows through ServiceNow  
 - Support enterprise integrations via MuleSoft (Anypoint Platform)  
-- Work on digital pricing and enterprise-grade systems  
+- Work with digital pricing and enterprise-grade business systems  
 - Collaborate in Agile environments using Rally  
-- Focus on system reliability, observability, and operational efficiency  
+- Focus on observability, reliability, and operational stability  
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🚀 Core Engineering
+### 🚀 Full Stack Development
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -52,7 +50,7 @@ I’m particularly interested in the intersection of development and operations 
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
 </p>
 
-### 🏢 Enterprise Systems
+### 🏢 Enterprise Tools
 <p>
   <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MuleSoft-00A1DF?style=for-the-badge"/>
@@ -79,23 +77,19 @@ Designed and developed a scalable full-stack marketplace enabling real-time inte
 
 **Highlights**
 - Built secure authentication, role-based dashboards, and real-time features  
-- Designed REST APIs for scalable transactions and data flow  
-- Deployed on Azure ensuring high availability and scalability  
-- Optimized performance using lazy loading and efficient rendering  
-
-**Impact:** Delivered a production-ready platform enabling local businesses to digitize and scale operations  
+- Designed REST APIs for scalable transactions and data handling  
+- Deployed on Azure with focus on scalability and availability  
+- Optimized frontend performance for improved user experience  
 
 ---
 
 ### 🚀 Ignite – Freelance Collaboration Platform
-A full-stack platform to streamline client–freelancer collaboration and workflow management.
+A full-stack platform built to streamline client–freelancer collaboration.
 
 **Highlights**
-- Implemented role-based workflows, project lifecycle management, and task tracking  
-- Built Kanban-style task system for real-time progress visibility  
+- Implemented role-based workflows and project lifecycle management  
+- Built task tracking system for real-time progress visibility  
 - Designed scalable backend APIs and responsive frontend  
-
-**Impact:** Reduced communication gaps by centralizing the entire freelance workflow  
 
 ---
 
@@ -103,11 +97,9 @@ A full-stack platform to streamline client–freelancer collaboration and workfl
 A Retrieval-Augmented Generation system for contextual academic Q&A.
 
 **Highlights**
-- Built FAISS-based semantic retrieval pipeline  
-- Integrated LLM for grounded responses with citations  
-- Designed interactive interface for context-aware learning  
-
-**Impact:** Improved accuracy and efficiency in academic knowledge retrieval  
+- Built semantic search pipeline using FAISS  
+- Integrated LLM for context-aware responses with citations  
+- Designed interactive interface for better usability  
 
 ---
 
